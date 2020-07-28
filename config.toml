@@ -13,7 +13,6 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
-
 [languages]
 #   [languages.en] 
 #     contentDir = "content/en" # English
