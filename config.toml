@@ -11,9 +11,9 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "G-P1C2B0FY81"
 
-[languages]
+# [languages]
 #   [languages.en] 
 #     contentDir = "content/en" # English
   # [languages.br]
