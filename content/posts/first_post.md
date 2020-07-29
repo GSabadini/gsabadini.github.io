@@ -4,7 +4,7 @@ title: "git commit -m 'first commit'"
 date: 2020-07-28T22:16:08-03:00
 author: "GSabadini"
 tags: ["example", "code"]
-draft: true
+draft: false
 ---
 
 ![Example image](/img/extincao.png)

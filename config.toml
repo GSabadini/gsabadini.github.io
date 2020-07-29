@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "G-P1C2B0FY81"
+googleAnalytics = ""
 
 # [languages]
 #   [languages.en] 
@@ -38,17 +38,17 @@ googleAnalytics = "G-P1C2B0FY81"
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = "Sphere"
+  # position: see values of CSS background-position.
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
+  desc = "Hexagon"
 
 [Author]
   name = "Gabriel Sabadini"
@@ -87,7 +87,13 @@ googleAnalytics = "G-P1C2B0FY81"
 
 [[menu.main]]
     name = "Sobre mim"
-    url = "page/about/"
+    url = "about"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
     weight = 3
 
 # [[menu.main]]
@@ -112,8 +118,3 @@ googleAnalytics = "G-P1C2B0FY81"
 #     name = "Code Sample"
 #     url = "post/2016-03-08-code-sample"
 #     weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
