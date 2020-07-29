@@ -87,7 +87,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     name = "Sobre mim"
-    url = "about"
+    url = "page/about/"
     weight = 3
 
 
