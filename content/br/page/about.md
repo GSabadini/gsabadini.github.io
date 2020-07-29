@@ -1,12 +1,17 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
+subtitle: Um breve resumo 
 comments: false
+draft: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Gabriel, tenho 23 anos, sou Engenheiro de Software por profissão e quase um Engenheiro de Software por graduação. Neste blog contarei um pouco sobre os meus aprendizados, em especial sobre:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Golang
+- Padrões de Projeto
+- Arquitetura e Design de Software
+- Código limpo
+- Observabilidade
+- Docker
+- CI/CD
+- Entre outras coisas super legais

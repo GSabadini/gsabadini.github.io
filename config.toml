@@ -1,6 +1,6 @@
 baseurl = "https://gsabadini.github.io"
 DefaultContentLanguage = "br"
-languageCode = "pt"
+# languageCode = "pt"
 title = "Gabriel Sabadini"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Engenharia de Software"
+  subtitle = "Aprendizados diários de um Engenheiro de Software apaixonado por tecnologia"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -55,12 +55,12 @@ pygmentsCodefencesGuessSyntax = true
 #   website = "yourwebsite.com"
   email = "gabriels.facina@gmail.com"
 #   facebook = "username"
-  github = "https://github.com/GSabadini"
+  github = "GSabadini"
 #   gitlab = "username"
 #   bitbucket = "username"
   # twitter = "username"
 #   reddit = "username"
-  linkedin = "https://www.linkedin.com/in/gabriel-sabadini-facina"
+  linkedin = "gabriel-sabadini-facina"
 #   xing = "username"
 #   stackoverflow = "users/XXXXXXX/username"
 #   snapchat = "username"
