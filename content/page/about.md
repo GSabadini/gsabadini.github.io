@@ -11,6 +11,7 @@ Meu nome é Gabriel, tenho 23 anos, sou Engenheiro de Software por profissão e 
 - Padrões de Projeto
 - Arquitetura e Design de Software
 - Código limpo
+- Testes automatizados
 - Observabilidade
 - Docker
 - CI/CD

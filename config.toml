@@ -16,8 +16,8 @@ pygmentsCodefencesGuessSyntax = true
 [languages]
 #   [languages.en] 
 #     contentDir = "content/en" # English
-  [languages.br]
-    contentDir = "content/br" # Brazilian Portuguese
+  # [languages.br]
+  #   contentDir = "content/br" # Brazilian Portuguese
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
